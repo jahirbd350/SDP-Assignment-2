@@ -1,0 +1,37 @@
+.main-container {
+  /* display: flex;
+  justify-content: space-around;
+  width: 80%; */
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.product-container {
+  /* display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 15px;
+  width: 100%;
+  margin: auto;
+  text-align: center; */
+  border: 1px solid gray;
+}
+.cart-container {
+  margin-left: 10px;
+  border: 1px solid gray;
+}
+.meal-img {
+  width: 200px;
+}
+.card {
+  width: 250px;
+  /* border: 1px solid gray; */
+}
+.cart-info {
+  display: flex;
+  justify-content: space-around;
+}
+.totalPrice {
+  padding-right: 70px;
+  text-align: right;
+}
